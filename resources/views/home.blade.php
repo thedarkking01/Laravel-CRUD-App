@@ -139,6 +139,8 @@
         }
 
         .post-container {
+            padding-top: 20px;
+            margin: auto;
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
