@@ -140,7 +140,7 @@
 
         .post-container {
             padding-top: 20px;
-            margin: auto;
+            margin: 20px;
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
